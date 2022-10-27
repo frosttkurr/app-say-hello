@@ -12,8 +12,6 @@ or
 
 go get github.com/frosttkurr/go-say-hello/v2
 
-
-
 2. Then, import modules on the projects
 
 Example: 
